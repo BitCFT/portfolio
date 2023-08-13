@@ -34,7 +34,7 @@ body {
 
   /* background: color image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh; /* viewport é toda a parte visível do dispositivo. aqui pega 100% da viewport */
+  height: 90vh; /* viewport é toda a parte visível do dispositivo. aqui pega 100% da viewport */
 }
 
 /* aplica para todos os elementos dentro do body */
